@@ -15,4 +15,5 @@ The API Keys you need:
 Feature Enhancements:
 * create voice translation in own voice
 * support multiple languages
+* Enhance UI
 
